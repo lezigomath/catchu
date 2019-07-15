@@ -12,7 +12,10 @@ class Exemple extends Component {
     render() {
         return (
             <div>
-                <h1>Mon profil</h1>
+                <h1>Nom du pseudo</h1>
+                <h2>Avatar / Photo de profil</h2>
+                <h3>Mon equipement</h3>
+                <h4>Mon inventaire</h4>
             </div>
         );
     }
