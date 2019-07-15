@@ -1,10 +1,9 @@
 import React from 'react';
-import './App.scss';
+import '../App.scss';
 
 function Connection() {
   return ( 
-    <div>
-	  
+    <div>	  
     </div>   
   );
 }
