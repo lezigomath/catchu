@@ -11,11 +11,11 @@ function App() {
       <BrowserRouter>
         <Switch>
           <Route exact path="/" component={Home} />
-          <Route path="/Profiel" component={Profile} />
+          <Route path="/Profile" component={Profile} />
           <Route path="/Connection" component={Connection} />
         </Switch>
       </BrowserRouter>
-      <h1>Cat Chu</h1>
+
     </div>
   );
 }
