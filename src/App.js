@@ -1,7 +1,7 @@
 import React from 'react';
-import Home from './Home'
-import Profil from './Profil';
-import Connection from './Connection';
+import Home from './pages/Home'
+import Profil from './pages/Profil';
+import Connection from './pages/Connection';
 import { BrowserRouter, Switch, Route } from 'react-router-dom';
 import './App.scss';
 
