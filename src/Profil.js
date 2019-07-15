@@ -22,3 +22,4 @@ class Exemple extends Component {
 }
 
 export default Exemple;
+
